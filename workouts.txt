@@ -1,0 +1,6 @@
+['box jumps (NORMAL)', 'kettlebell swings (NORMAL)']
+['box jumps (NORMAL)', 'standing military press (BARBELL)']
+['leg lifts (HANGING)', 'body squats (JUMPING)']
+['lunges (WALKING)', 'pullups (NORMAL)']
+['twists (NORMAL)', 'sprints (UPHILL)']
+['pullups (NARROW)', 'side lunges (DUMBELL)']
