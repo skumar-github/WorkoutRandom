@@ -4,3 +4,6 @@
 ['lunges (WALKING)', 'pullups (NORMAL)']
 ['twists (NORMAL)', 'sprints (UPHILL)']
 ['pullups (NARROW)', 'side lunges (DUMBELL)']
+['bear mountain (NORMAL)', 'squats (BARBELL)']
+['lunges (KETTLEBELL)', 'standing military press (DUMBELL)']
+['dips (HOPPING)', 'leg lifts (HANGING)']
